@@ -1,0 +1,17 @@
+{
+  "name": "ts-coffee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine --require='ts-node/register'"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^3.10.2",
+    "jasmine": "^3.10.0",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
